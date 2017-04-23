@@ -1,2 +1,4 @@
 	name: Amin Farmahini-Farahani
 	markdown: kramdown
+
+theme: jekyll-theme-minimal
