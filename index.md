@@ -1,3 +1,6 @@
+layout: page
+title: Amin Farmahini-Farahani's github
+
 # Welcome
 
 
