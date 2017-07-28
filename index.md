@@ -3,7 +3,7 @@ title: Amin Farmahini-Farahani's github
 
 # Welcome
 
-Sorry, I don't put much content in here. Do my best to populate this page by 2027, but no promise.
+Sorry, I don't put much content in here. Will do my best to populate this page by 2027, but no promise.
 
 This is a numbered list:
 
